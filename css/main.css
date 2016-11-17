@@ -55,7 +55,7 @@ body {
 .robot:hover .robot-head-left {
   left: 0;
   top: 7px;
- }
+}
 
 .robot:hover .robot-head-right {
   right: 0;
